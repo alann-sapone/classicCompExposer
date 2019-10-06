@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: Classic Comp Exposer
+## Author: Alann Sapone
+## Version: 0.1
+
+main.lua
